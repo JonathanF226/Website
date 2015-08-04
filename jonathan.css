@@ -1,0 +1,83 @@
+
+    	body {
+			text-align: center;
+			background: url(http://img2.themebin.com/hd-wallpapers/1920x1200/space_1920x1200.jpg);
+			background-size: cover;
+			background-position: center;
+			color: white; 
+			font-family: helvetica;
+		}
+		p {
+			font-size: 22px;
+		}
+		input{
+			border: 0;
+			padding: 10px;
+			font-size: 18px;
+		}
+		input[type="submit"] {
+			background: red;
+			color: white;
+		}
+		
+		img{
+			 width: 200px;
+			 height: 200px;
+			 background-image: url('http://strawberry-fest.org/wp-content/uploads/2012/01/Coca-Cola-logo.jpg');
+			 background-size: cover;
+			 display: block;
+			 margin-left:auto;
+			 margin-right:auto;
+			 border-radius: 100px;
+			 -webkit-border-radius: auto;
+			 -moz-border-radius: auto;
+			 
+			}
+			.bae{
+				position: absolute;
+				top: 18%;
+				left: 60%;
+			}
+			.fifa{
+				position: absolute;
+				top: 65%;
+				left: 60%;
+			}
+			.minecraft{
+				position: absolute;
+				top: 65%;
+				right: 60%;
+			}
+			.Converse{
+				position: absolute;
+				top: 105%;
+				right: 60%;
+			}
+			.Robot{
+				position: absolute;
+				top: 148%;
+				left: 60%;
+			}
+			.soccer{
+				position: absolute;
+				top: 18%;
+				right: 60%;
+			}
+			
+			}
+			a:link{
+				color: #FFFFFF;
+			}
+			a:visited{
+				color: #FFFFFF;
+			}
+			a:hover{
+				color: #000099;
+
+			}
+		@media screen and(max-width: 300px) {
+		.soccer{
+
+		}
+		}		
+	
